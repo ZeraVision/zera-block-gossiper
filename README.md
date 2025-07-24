@@ -15,7 +15,7 @@ A development tool for testing block processing functionality for certain applic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jfederk/zera-block-gossiper.git
+   git clone https://github.com/ZeraVision/zera-block-gossiper.git
    cd zera-block-gossiper
    ```
 
