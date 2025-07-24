@@ -1,4 +1,4 @@
-module github.com/jfederk/zera-block-gossiper
+module github.com/ZeraVision/zera-block-gossiper
 
 go 1.23.2
 
